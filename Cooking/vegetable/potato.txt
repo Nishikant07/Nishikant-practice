@@ -1,0 +1,3 @@
+potato.txt added to vegetable
+rice.txt is moved to grains directory
+apple.txt is moved to fruits directo
